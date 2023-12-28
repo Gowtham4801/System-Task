@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetrofitGetRecyclerviewExample</string>
+    <string name="system_task">System Task</string>
+    <string name="id">Id</string>
+    <string name="user_id">User Id</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="system_taks">System Task</string>
+    <string name="skip_in_3s">Skip in 3s</string>
+</resources>
