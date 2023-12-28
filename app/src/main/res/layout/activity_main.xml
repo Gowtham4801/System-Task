@@ -23,7 +23,7 @@
             android:textStyle="bold"
             android:background="@color/Orange"
             android:fontFamily="sans-serif-smallcaps"
-            android:textSize="@dimen/sp_20"
+            android:textSize="@dimen/sp_30"
             />
 
         <androidx.appcompat.widget.SearchView
