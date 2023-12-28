@@ -1,5 +1,6 @@
 # System-Task
 "I have designed and developed an app that utilizes Retrofit to display data from an API in a RecyclerView."
+
 Splash Screen
 
 ![Splash Screen](https://github.com/Gowtham4801/System-Task/assets/130385346/417cec3a-42a3-49ed-ae76-858bca623c52)
@@ -10,4 +11,5 @@ Tool Bar
 
 Main Activity 
 
-![Uploading Main Activity.jpg…]()
+![Main Activity](https://github.com/Gowtham4801/System-Task/assets/130385346/0d9a8287-ef99-4692-8fdd-c9ace4f40d58)
+
